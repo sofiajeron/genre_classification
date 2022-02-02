@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 #untrack the following packages
-wanb/
+wandb/
 mlruns/
 outputs/
