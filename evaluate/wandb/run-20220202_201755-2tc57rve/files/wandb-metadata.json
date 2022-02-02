@@ -1,0 +1,27 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-02-02T20:17:57.839380",
+    "startedAt": "2022-02-02T20:17:55.808287",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "git@github-personal:sofiajeron/genre_classification.git",
+        "commit": "31f5bd8436f33980de7a9815b4b25a69df411fbe"
+    },
+    "email": "sofia_jeronimo@bose.com",
+    "root": "/Users/sj1052582/Udacity-courses/genre_classification",
+    "host": "EMEA-C02G134JMD6T",
+    "username": "sj1052582",
+    "executable": "/Users/sj1052582/anaconda3/envs/mlflow-6332c7ba0f11b7fa9f1b118cbd9e7d42aa2b97c6/bin/python"
+}

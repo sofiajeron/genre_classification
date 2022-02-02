@@ -1,0 +1,31 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-02-02T18:46:12.933255",
+    "startedAt": "2022-02-02T18:46:10.463341",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "git@github-personal:sofiajeron/genre_classification.git",
+        "commit": "31f5bd8436f33980de7a9815b4b25a69df411fbe"
+    },
+    "email": "sofia_jeronimo@bose.com",
+    "root": "/Users/sj1052582/Udacity-courses/genre_classification",
+    "host": "EMEA-C02G134JMD6T",
+    "username": "sj1052582",
+    "executable": "/Users/sj1052582/anaconda3/envs/mlflow-5b98147e5117ac6c30e85e2f0202eafb73da0cd7/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sj1052582/Udacity-courses/genre_classification/mlruns/0/227b76b497dd4b619235c6d7a893be31/artifacts
+end_time: 1643829362881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 227b76b497dd4b619235c6d7a893be31
+run_uuid: 227b76b497dd4b619235c6d7a893be31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643829343852
+status: 3
+tags: []
+user_id: sj1052582
